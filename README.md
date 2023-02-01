@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlackRooks
 - 👀 I’m interested in gaming,reading, badminton, music 
-- 🌱 I’m currently learning to code, chinese and french language
+- 🌱 I’m currently learning computer science, chinese and french language
 - 💞️ I’m looking to collaborate on ... IDK yet
 - 📫 How to reach me preferably discord - BlackRooks#5641
 
