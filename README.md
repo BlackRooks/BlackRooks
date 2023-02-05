@@ -1,6 +1,6 @@
 
--My pen name and username are BlackRooks 
--I'minterested in gaming,reading, badminton, music 
+- My pen name and username are BlackRooks 
+- I'minterested in gaming,reading, badminton, music 
 - 🌱 I’m currently studying computer science first year.
 
 
