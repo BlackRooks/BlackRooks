@@ -1,8 +1,8 @@
 
-- My pen name and username are BlackRooks.
+- My pen name and username are BlackRooks. Official Name: Piyaporn Srimanta NickName: Yoyo
 - I'm like gaming,reading, badminton, music, film photography and art.
-- 🌱 I’m currently studying computer science first year.
-- I have an obsession with bubble tea, milk tea and mogu mog and SimplyOtaku.
+- 🌱 I’m currently studying computer science at NTU.
+- I have an obsession with bubble tea, milk tea and SimplyOtaku.
 
 
 <!---
