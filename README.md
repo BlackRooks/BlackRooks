@@ -1,8 +1,5 @@
 # 💫 About Me:
-- My pen name and username are BlackRooks. Official Name: Piyaporn Srimanta NickName: Yoyo
-- I'm like gaming,reading, badminton, music, film photography and art.
-- 🌱 I’m currently studying computer science at NTU.
-- I have an obsession with bubble tea, milk tea and SimplyOtaku.
+- My **pen-name/username**:BlackRooks. **Official Name**: Piyaporn Srimanta **NickName**: Yoyo 
 <!---
 ![Subject copy 2](https://github.com/user-attachments/assets/cdac24fd-e2f4-4f54-ae95-67af88cbce1c)
 --->
@@ -11,7 +8,7 @@
 BlackRooks/BlackRooks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!--
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -71,5 +68,4 @@ You can click the Preview link to take a look at your changes.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
 </div>
- --->
 <hr>
